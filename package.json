@@ -1,0 +1,13 @@
+{
+  "name": "site-56c24e5c-6a30-4752-8595-4c94c67254a0-1755358723474",
+  "version": "1.0.0",
+  "description": "Site adocekn100",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
